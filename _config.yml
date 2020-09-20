@@ -1,0 +1,257 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
+
+# Site settings
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+url: ''
+baseurl: ''
+description: 'Amiot Spine Care'
+author: Dennis Rausch
+
+title: Amiot Spine Care
+logo:
+  path: assets/img/logo.png
+  height: 75
+
+nav:
+  - title: 'Services'
+    section: services
+
+  - title: 'FAQs'
+    section: faqs
+
+  - title: 'Contact'
+    section: footer
+
+  - title: 'Schedule Appointment'
+    url: https://scheduler.chirofusionlive.com/amiotspinecarepllc
+
+analytics:
+  google: #Google Analytics tracking code here
+
+markdown: kramdown
+
+about:
+  title: Welcome to Amiot Spine Care!
+  lead: My name is Dr. Ursula Amiot and I am glad you’re here
+  text: 'As the owner of Amiot Spine Care, my mission is to provide
+    compassionate patient care and education for back pain, neck pain,
+    headaches, and muscle pain. I have been treating patients for over 16 years
+    and I pride myself on listening to my patient’s needs, being a trusted
+    advocate, and providing best practice, patient centered care, to everyone I
+    treat.
+
+
+    I have a Bachelor of Science degree from the Minnesota State University at
+    Mankato, a Doctor of Chiropractic Medicine from Northwestern Health Sciences
+    University. Additionally I am studying for a Diplomate in Pediatric care and
+    pregnancy. I was in private practice in Mahtomedi and in 2006 I had the
+    privilege of becoming an associate professor at Northwestern Health Sciences
+    University, where I treated patients and trained students interns. Most
+    recently, I spent the past 7 years as a Chiropractor at HealthPartners Hugo
+    and White Bear Lake Clinics.
+
+
+    I live in White Bear Lake area with my husband and our two girls. We enjoy
+    traveling, golfing, skiing in the winter, and enjoying time on our boat in
+    the summer.
+
+
+    I am thrilled to start my practice inside the HealthPartners White Bear Lake
+    clinic. I look forward to working with you to find the best ways for you to
+    feel better and have less pain.'
+  section: about
+
+contact:
+  title: 'Contact'
+  method:
+    - url: 'maps.google.com/maps?daddr=1430+Hwy+96+E,+White+Bear+Lake,+MN+55110'
+      icon: 'fa fa-map-marked'
+      text: '1430 Highway 96 East<br>White Bear Lake, MN 55110'
+    - url: 'tel:+16512696649'
+      icon: 'fa fa-phone'
+      text: '(651) 269-6649'
+    - url: 'mailto:info@amiotspinecare.com'
+      icon: 'fa fa-envelope'
+      text: info@amiotspinecare.com
+    - url: https://twitter.com
+      icon: 'fa fa-twitter'
+      text: 'Twitter'
+    - url: https://facebook.com
+      icon: 'fa fa-facebook-f'
+      text: 'Facebook'
+    - url: https://linkedin.com
+      icon: 'fa fa-linkedin'
+      text: 'LinkedIn'
+  address:
+    'Amiot Spine Care<br>1430 Highway 96 East<br>White Bear Lake, MN
+    55110<br>(Inside HealthPartners Clinic)'
+  address_url: 'maps.google.com/maps?daddr=1430+Hwy+96+E,+White+Bear+Lake,+MN+55110'
+  email: info@amiotspinecare.com
+  email_url: 'mailto:info@amiotspinecare.com'
+  hours:
+    '**Sunday:**    Closed<br> **Monday:**    7:00 - 6:00<br>
+    **Tuesday:**   7:00 - 6:00<br> **Wednesday:** 7:00 - 5:00<br>
+    **Thursday:**  7:00 - 6:00<br> **Friday:**    7:00 - 5:00<br>
+    **Saturday:**  Closed'
+  section: contact
+
+faqs:
+  list:
+    - question: 'What is Chiropractic?'
+      answer:
+        'Chiropractors treat back pain by adjusting your body with a focus on
+        the spine. We use our hand or specialized instruments to apply safe,
+        controlled force to your joints to help correct dysfunction and decrease
+        your pain. Adjustments also stimulate your body’s natural healing
+        abilities. We will discuss your condition and whether chiropractic care
+        can be a benefit for you and stretches will be discussed. At Amiot Spine
+        Care, it usually takes about six visits to complete your personalized
+        treatment plan. But you’ll start to feel better as soon as your first
+        appointment and continue to heal throughout your treatments.'
+    - question: 'Is Chiropractic care right for me?'
+      answer: 'If neck and back pain, joint pain/stiffness, nerve pain or muscle
+        pain makes it hard to work, get through your daily routines or do what
+        you enjoy, then chiropractic may be an option you want to explore.
+        Chiropractors treat problems affecting your bones, muscles, nerves and
+        joints by adjusting your body, with a focus on the spine. Chiropractic
+        adjustments help correct dysfunctions in your body’s structure, promote
+        pain relief and boost your ability to heal. Chiropractors can also offer
+        personalized insights and education on how you can work and play more
+        safely, helping you independently manage and reduce pain in your
+        day-to-day life.
+
+
+        Chiropractors typically treat the following musculoskeletal conditions:
+
+
+        - Back Pain
+
+        - Neck pain
+
+        - Headaches
+
+        - Sports injuries
+
+        - Arthritis pain
+
+        - Bursitis
+
+        - Carpal Tunnel Syndrome
+
+        - Fibromylgia
+
+        - Herniated discs
+
+        - Arm & Leg Pain
+
+        - Plantar fasciitis
+
+        - Pain During Pregnancy
+
+        - Strains and Sprains
+
+        - Rotator Cuff Injuries
+
+        - Sciatica
+
+        - Spinal stenosis'
+    - question: 'How many treatments can I expect to have?'
+      answer:
+        'Most conditions typically respond in 6-8 visits. My goal is to treat
+        you with the minimal number of visits and provide self-care information
+        so that you are able to continue to make improvements after your
+        treatment is complete and you can get back to doing what you love.'
+    - question: 'What if I don’t know the cause of my pain?'
+      answer:
+        'Sometimes, it’s hard to be specific about the kind of pain you’re
+        feeling. My approach is to listen to your concerns and help identify the
+        root cause of your pain and treat it. If I find that your pain isn’t
+        related to a musculoskeletal condition, I will refer you to someone who
+        is better able to help you.'
+    - question: 'How are you preparing for COVID-19?'
+      answer:
+        'At my office, your health and safety are my top priority. Chiropractic
+        care is available in-office for patients meeting the COVID-19 safety
+        guidelines, which includes wearing a mask in the building and during our
+        office visit. We will observe current issued COVID-19 guidance. Do not
+        come into the office if you, a family member or other person you are in
+        close contact with has been diagnosed or is waiting on a test result for
+        COVID-19.'
+    - question: 'Do you accept insurance?'
+      answer:
+        'Amiot Spine Care is in network for most insurance plans in our area.'
+    - question: 'Do I have to get imaging done?'
+      answer:
+        'On occasion, further tests such as x-rays are required to determine the
+        source of your pain. For most cases of back pain imaging is unnecessary.
+        Dr. Amiot will do a complete history and exam to determine if imaging is
+        necessary.'
+    - question: 'Is chiropractic treatment safe during pregnancy?'
+      answer:
+        'Chiropractic care offers a safe alternative to pain medications for
+        pregnant women. Chiropractic treatment can help with back pain, hip
+        pain, and leg pain related to pregnancy. Dr. Amiot will modify therapies
+        as needed to ensure safety. Dr. Amiot is certified in Webster Technique
+        for pregnancy.'
+    - question: 'Do I need a referral to see a chiropractor?'
+      answer: 'No, you do not need a referral to see a chiropractor.'
+
+footer:
+  legal: 'Privacy Policy'
+  social:
+    - url: 'tel:+16512696649'
+      icon: 'fa fa-phone'
+      text: '(651) 269-6649'
+    - url: 'mailto:info@amiotspinecare.com'
+      icon: 'fa fa-envelope'
+      text: info@amiotspinecare.com
+    - url: https://twitter.com
+      icon: 'fa fa-twitter'
+      text: 'Twitter'
+    - url: https://facebook.com
+      icon: 'fa fa-facebook-f'
+      text: 'Facebook'
+    - url: https://linkedin.com
+      icon: 'fa fa-linkedin'
+      text: 'LinkedIn'
+
+header:
+  title: Welcome to Amiot Spine Care!
+
+services:
+  section: services
+  list:
+    - title: 'New Patient'
+      icon: fa fa-plus
+      desc: '- 30 - 40 minute appointment
+
+        - Review your overall health and go through your medical history
+
+        - Listen to where you have pain and perform a thorough examination on
+        those areas
+
+        - Check your overall range of motion and muscle strength
+
+        - Determine a plan and next steps together
+
+        - Treatment/technique based on your needs
+
+        - Self-care information'
+    - title: 'Returning Patient'
+      icon: fa fa-undo
+      desc: '- 15 - 20 minute appointment
+
+        - Listening to understand if your condition has improved/changed
+
+        - Follow up treatment using similar techniques
+
+        - Reviewing/Updating self-care'

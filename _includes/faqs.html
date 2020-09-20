@@ -1,0 +1,17 @@
+<section id="{{ site.faqs.section | default: "faqs" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center">
+        <h2>{{ site.faqs.title | default: "Frequently Asked Questions" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        {%- for faq in site.faqs.list -%}
+          <h4>{{ faq.question }}</h4>
+          <p>{{ faq.answer | markdownify }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
