@@ -98,10 +98,12 @@ contact:
   email: info@amiotspinecare.com
   email_url: 'mailto:info@amiotspinecare.com'
   hours:
-    '**Sunday:**    Closed<br> **Monday:**    7:00 - 6:00<br>
-    **Tuesday:**   7:00 - 6:00<br> **Wednesday:** 7:00 - 5:00<br>
-    **Thursday:**  7:00 - 6:00<br> **Friday:**    7:00 - 5:00<br>
-    **Saturday:**  Closed'
+    '**Sunday:**&nbsp;&nbsp;&nbsp;&nbsp;Closed<br>
+    **Monday:**&nbsp;&nbsp;&nbsp;&nbsp;7:00 - 6:00<br>
+    **Tuesday:**&nbsp;&nbsp;&nbsp;7:00 - 6:00<br> **Wednesday:**&nbsp;7:00 -
+    5:00<br> **Thursday:**&nbsp;&nbsp;7:00 - 6:00<br>
+    **Friday:**&nbsp;&nbsp;&nbsp;&nbsp;7:00 - 5:00<br>
+    **Saturday:**&nbsp;&nbsp;Closed'
   section: contact
 
 faqs:
@@ -187,8 +189,20 @@ faqs:
         close contact with has been diagnosed or is waiting on a test result for
         COVID-19.'
     - question: 'Do you accept insurance?'
-      answer:
-        'Amiot Spine Care is in network for most insurance plans in our area.'
+      answer: 'Amiot Spine Care is in network for most insurance plans in our
+        area. We accept auto accident, workers compensation, personal injury and
+        most health insurance plans, including Medicare. Since there are so many
+        plans and coverage varies widely, please call us to find out if your
+        plan covers care in our office. We will verify and explain your benefits
+        before treatment, at no charge.
+
+
+        For patients who have little or no chiropractic insurance coverage,
+        flexible payment programs can be arranged. If you have no insurance or
+        do not have chiropractic benefits there is still a way for you to
+        receive the care you need. Many of our patients pay directly for care,
+        as they discover chiropractic to be extremely cost-effective and
+        affordable.'
     - question: 'Do I have to get imaging done?'
       answer:
         'On occasion, further tests such as x-rays are required to determine the
