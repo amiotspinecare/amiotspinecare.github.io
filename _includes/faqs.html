@@ -6,12 +6,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col">
-        {%- for faq in site.faqs.list -%}
-          <h4>{{ faq.question }}</h4>
-          <p>{{ faq.answer | markdownify }}</p>
-        {% endfor %}
-      </div>
+      <div class="col">{{ site.faqs | markdownify }}</div>
     </div>
   </div>
 </section>

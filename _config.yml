@@ -98,126 +98,127 @@ contact:
   email: info@amiotspinecare.com
   email_url: 'mailto:info@amiotspinecare.com'
   hours:
-    '**Sunday:**&nbsp;&nbsp;&nbsp;&nbsp;Closed<br>
-    **Monday:**&nbsp;&nbsp;&nbsp;&nbsp;7:00 - 6:00<br>
-    **Tuesday:**&nbsp;&nbsp;&nbsp;7:00 - 6:00<br> **Wednesday:**&nbsp;7:00 -
-    5:00<br> **Thursday:**&nbsp;&nbsp;7:00 - 6:00<br>
-    **Friday:**&nbsp;&nbsp;&nbsp;&nbsp;7:00 - 5:00<br>
-    **Saturday:**&nbsp;&nbsp;Closed'
+    '**Sunday:** Closed<br> **Monday:** 7:00 - 6:00<br> **Tuesday:** 7:00 -
+    6:00<br> **Wednesday:** 7:00 - 5:00<br> **Thursday:** 7:00 - 6:00<br>
+    **Friday:** 7:00 - 5:00<br> **Saturday:** Closed'
   section: contact
 
-faqs:
-  list:
-    - question: 'What is Chiropractic?'
-      answer:
-        'Chiropractors treat back pain by adjusting your body with a focus on
-        the spine. We use our hand or specialized instruments to apply safe,
-        controlled force to your joints to help correct dysfunction and decrease
-        your pain. Adjustments also stimulate your body’s natural healing
-        abilities. We will discuss your condition and whether chiropractic care
-        can be a benefit for you and stretches will be discussed. At Amiot Spine
-        Care, it usually takes about six visits to complete your personalized
-        treatment plan. But you’ll start to feel better as soon as your first
-        appointment and continue to heal throughout your treatments.'
-    - question: 'Is Chiropractic care right for me?'
-      answer: 'If neck and back pain, joint pain/stiffness, nerve pain or muscle
-        pain makes it hard to work, get through your daily routines or do what
-        you enjoy, then chiropractic may be an option you want to explore.
-        Chiropractors treat problems affecting your bones, muscles, nerves and
-        joints by adjusting your body, with a focus on the spine. Chiropractic
-        adjustments help correct dysfunctions in your body’s structure, promote
-        pain relief and boost your ability to heal. Chiropractors can also offer
-        personalized insights and education on how you can work and play more
-        safely, helping you independently manage and reduce pain in your
-        day-to-day life.
+faqs: '#### What is Chiropractic?
+
+  Chiropractors treat back pain by adjusting your body with a focus on the
+  spine. We use our hand or specialized instruments to apply safe, controlled
+  force to your joints to help correct dysfunction and decrease your pain.
+  Adjustments also stimulate your body’s natural healing abilities. We will
+  discuss your condition and whether chiropractic care can be a benefit for you
+  and stretches will be discussed. At Amiot Spine Care, it usually takes about
+  six visits to complete your personalized treatment plan. But you’ll start to
+  feel better as soon as your first appointment and continue to heal throughout
+  your treatments.
+
+  #### Is Chiropractic care right for me?
+
+  If neck and back pain, joint pain/stiffness, nerve pain or muscle pain makes
+  it hard to work, get through your daily routines or do what you enjoy, then
+  chiropractic may be an option you want to explore. Chiropractors treat
+  problems affecting your bones, muscles, nerves and joints by adjusting your
+  body, with a focus on the spine. Chiropractic adjustments help correct
+  dysfunctions in your body’s structure, promote pain relief and boost your
+  ability to heal. Chiropractors can also offer personalized insights and
+  education on how you can work and play more safely, helping you independently
+  manage and reduce pain in your day-to-day life.
 
 
-        Chiropractors typically treat the following musculoskeletal conditions:
+  Chiropractors typically treat the following musculoskeletal conditions:
 
 
-        - Back Pain
+  - Back Pain
 
-        - Neck pain
+  - Neck pain
 
-        - Headaches
+  - Headaches
 
-        - Sports injuries
+  - Sports injuries
 
-        - Arthritis pain
+  - Arthritis pain
 
-        - Bursitis
+  - Bursitis
 
-        - Carpal Tunnel Syndrome
+  - Carpal Tunnel Syndrome
 
-        - Fibromylgia
+  - Fibromylgia
 
-        - Herniated discs
+  - Herniated discs
 
-        - Arm & Leg Pain
+  - Arm & Leg Pain
 
-        - Plantar fasciitis
+  - Plantar fasciitis
 
-        - Pain During Pregnancy
+  - Pain During Pregnancy
 
-        - Strains and Sprains
+  - Strains and Sprains
 
-        - Rotator Cuff Injuries
+  - Rotator Cuff Injuries
 
-        - Sciatica
+  - Sciatica
 
-        - Spinal stenosis'
-    - question: 'How many treatments can I expect to have?'
-      answer:
-        'Most conditions typically respond in 6-8 visits. My goal is to treat
-        you with the minimal number of visits and provide self-care information
-        so that you are able to continue to make improvements after your
-        treatment is complete and you can get back to doing what you love.'
-    - question: 'What if I don’t know the cause of my pain?'
-      answer:
-        'Sometimes, it’s hard to be specific about the kind of pain you’re
-        feeling. My approach is to listen to your concerns and help identify the
-        root cause of your pain and treat it. If I find that your pain isn’t
-        related to a musculoskeletal condition, I will refer you to someone who
-        is better able to help you.'
-    - question: 'How are you preparing for COVID-19?'
-      answer:
-        'At my office, your health and safety are my top priority. Chiropractic
-        care is available in-office for patients meeting the COVID-19 safety
-        guidelines, which includes wearing a mask in the building and during our
-        office visit. We will observe current issued COVID-19 guidance. Do not
-        come into the office if you, a family member or other person you are in
-        close contact with has been diagnosed or is waiting on a test result for
-        COVID-19.'
-    - question: 'Do you accept insurance?'
-      answer: 'Amiot Spine Care is in network for most insurance plans in our
-        area. We accept auto accident, workers compensation, personal injury and
-        most health insurance plans, including Medicare. Since there are so many
-        plans and coverage varies widely, please call us to find out if your
-        plan covers care in our office. We will verify and explain your benefits
-        before treatment, at no charge.
+  - Spinal stenosis
 
 
-        For patients who have little or no chiropractic insurance coverage,
-        flexible payment programs can be arranged. If you have no insurance or
-        do not have chiropractic benefits there is still a way for you to
-        receive the care you need. Many of our patients pay directly for care,
-        as they discover chiropractic to be extremely cost-effective and
-        affordable.'
-    - question: 'Do I have to get imaging done?'
-      answer:
-        'On occasion, further tests such as x-rays are required to determine the
-        source of your pain. For most cases of back pain imaging is unnecessary.
-        Dr. Amiot will do a complete history and exam to determine if imaging is
-        necessary.'
-    - question: 'Is chiropractic treatment safe during pregnancy?'
-      answer:
-        'Chiropractic care offers a safe alternative to pain medications for
-        pregnant women. Chiropractic treatment can help with back pain, hip
-        pain, and leg pain related to pregnancy. Dr. Amiot will modify therapies
-        as needed to ensure safety. Dr. Amiot is certified in Webster Technique
-        for pregnancy.'
-    - question: 'Do I need a referral to see a chiropractor?'
-      answer: 'No, you do not need a referral to see a chiropractor.'
+  #### How many treatments can I expect to have?
+
+  Most conditions typically respond in 6-8 visits. My goal is to treat you with
+  the minimal number of visits and provide self-care information so that you are
+  able to continue to make improvements after your treatment is complete and you
+  can get back to doing what you love.
+
+  #### What if I don’t know the cause of my pain?
+
+  Sometimes, it’s hard to be specific about the kind of pain you’re feeling. My
+  approach is to listen to your concerns and help identify the root cause of
+  your pain and treat it. If I find that your pain isn’t related to a
+  musculoskeletal condition, I will refer you to someone who is better able to
+  help you.
+
+  #### How are you preparing for COVID-19?
+
+  At my office, your health and safety are my top priority. Chiropractic care is
+  available in-office for patients meeting the COVID-19 safety guidelines, which
+  includes wearing a mask in the building and during our office visit. We will
+  observe current issued COVID-19 guidance. Do not come into the office if you,
+  a family member or other person you are in close contact with has been
+  diagnosed or is waiting on a test result for COVID-19.
+
+  #### Do you accept insurance?
+
+  Amiot Spine Care is in network for most insurance plans in our area. We accept
+  auto accident, workers compensation, personal injury and most health insurance
+  plans, including Medicare. Since there are so many plans and coverage varies
+  widely, please call us to find out if your plan covers care in our office. We
+  will verify and explain your benefits before treatment, at no charge.
+
+
+  For patients who have little or no chiropractic insurance coverage, flexible
+  payment programs can be arranged. If you have no insurance or do not have
+  chiropractic benefits there is still a way for you to receive the care you
+  need. Many of our patients pay directly for care, as they discover
+  chiropractic to be extremely cost-effective and affordable.
+
+  #### Do I have to get imaging done?
+
+  On occasion, further tests such as x-rays are required to determine the source
+  of your pain. For most cases of back pain imaging is unnecessary. Dr. Amiot
+  will do a complete history and exam to determine if imaging is necessary.
+
+  #### Is chiropractic treatment safe during pregnancy?
+
+  Chiropractic care offers a safe alternative to pain medications for pregnant
+  women. Chiropractic treatment can help with back pain, hip pain, and leg pain
+  related to pregnancy. Dr. Amiot will modify therapies as needed to ensure
+  safety. Dr. Amiot is certified in Webster Technique for pregnancy.
+
+  #### Do I need a referral to see a chiropractor?
+
+  No, you do not need a referral to see a chiropractor.'
 
 footer:
   legal: 'Privacy Policy'
