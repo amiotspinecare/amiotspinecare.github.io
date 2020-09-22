@@ -11,8 +11,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: ''
-baseurl: ''
+url: 'https://amiotspinecare.com'
+baseurl: '/'
 description: 'Amiot Spine Care'
 author: Dennis Rausch
 
@@ -229,15 +229,15 @@ footer:
     - url: 'mailto:info@amiotspinecare.com'
       icon: 'fa fa-envelope'
       text: info@amiotspinecare.com
-    - url: https://twitter.com
-      icon: 'fa fa-twitter'
-      text: 'Twitter'
-    - url: https://facebook.com
-      icon: 'fa fa-facebook-f'
-      text: 'Facebook'
-    - url: https://linkedin.com
-      icon: 'fa fa-linkedin'
-      text: 'LinkedIn'
+    # - url: https://twitter.com
+    #   icon: 'fa fa-twitter'
+    #   text: 'Twitter'
+    # - url: https://facebook.com
+    #   icon: 'fa fa-facebook-f'
+    #   text: 'Facebook'
+    # - url: https://linkedin.com
+    #   icon: 'fa fa-linkedin'
+    #   text: 'LinkedIn'
 
 header:
   title: Welcome to Amiot Spine Care!
